@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_tmp" >
+<node_order><![CDATA[16]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testsuite name="suite_name1" >
+<node_order><![CDATA[15]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase name="case_name1">
+	<node_order><![CDATA[1]]></node_order>
+	<version><![CDATA[1]]></version>
+    <summary><![CDATA[<p>summary1</p>
+]]></summary>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>step1</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt1</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>step2</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt2</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>step3</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt3</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+</steps>
+</testcase>
+
+<testcase name="case_name12">
+	<node_order><![CDATA[1]]></node_order>
+	<version><![CDATA[1]]></version>
+    <summary><![CDATA[<p>sumary12</p>
+]]></summary>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>step4</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt4</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>step5</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt5</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>step6</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt6</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+</steps>
+</testcase>
+
+</testsuite>
+
+<testsuite name="suite_name2" >
+<node_order><![CDATA[15]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase name="case_name2">
+	<node_order><![CDATA[1]]></node_order>
+	<version><![CDATA[1]]></version>
+    <summary><![CDATA[<p>summary2</p>
+]]></summary>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>step1</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt1</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>step2</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt2</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>step3</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt3</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[4]]></step_number>
+	<actions><![CDATA[<p>step4</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt4</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[5]]></step_number>
+	<actions><![CDATA[<p>step5</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt5</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[6]]></step_number>
+	<actions><![CDATA[<p>step6</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt6</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+</steps>
+</testcase>
+
+</testsuite>
+
+<testsuite name="suite_name3" >
+<node_order><![CDATA[15]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase name="case_name3">
+	<node_order><![CDATA[1]]></node_order>
+	<version><![CDATA[1]]></version>
+    <summary><![CDATA[<p>summary3</p>
+]]></summary>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>step1</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt1</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>step2</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt2</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>step3</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt3</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[4]]></step_number>
+	<actions><![CDATA[<p>step4</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt4</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[5]]></step_number>
+	<actions><![CDATA[<p>step5</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt5</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+</steps>
+</testcase>
+
+</testsuite>
+
+<testsuite name="suite_name4" >
+<node_order><![CDATA[15]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase name="case_name4">
+	<node_order><![CDATA[1]]></node_order>
+	<version><![CDATA[1]]></version>
+    <summary><![CDATA[<p>summary4</p>
+]]></summary>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>step1</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt1</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>step2</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt2</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>step3</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>ruslt3</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+</steps>
+</testcase>
+
+</testsuite>
+</testsuite>
